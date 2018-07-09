@@ -1,1 +1,1 @@
-[]
+[{"id":"cb6d1535.b4b338","type":"tab","label":"流程1","disabled":false,"info":""},{"id":"327e810.89c6e8","type":"inject","z":"cb6d1535.b4b338","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":240,"y":220,"wires":[["46b422c5.a4613c"]]},{"id":"46b422c5.a4613c","type":"debug","z":"cb6d1535.b4b338","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":440,"y":220,"wires":[]}]
